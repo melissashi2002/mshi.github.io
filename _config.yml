@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiayue Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Undergraduate student at UIUC"
+  location         : "Champaign"
+  employer         : "University of Illinois Urbana Champaign"
+  uri              :  https://illinois.edu/
   email            : "mshi24@illinois.edu" 
 
   # Academic websites
