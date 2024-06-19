@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[Download CV here(https://melissashi2002.github.io/mshi.github.io/files/cv.pdf)]
+[Download CV here(https://mshi.github.io/files/cv.pdf)]
 
