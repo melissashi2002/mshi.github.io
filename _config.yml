@@ -14,19 +14,19 @@ name                     : &name "Jiayue Shi"
 description              : &description "personal description"
 url                      : https://melissashi2002.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "melissashi2002.github.io"
+repository               : "melissashi2002/melissashi2002.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Jiayue Shi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Urbana"
+  employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
   email            : "mshi24@illinois.edu" 
 
