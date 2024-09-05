@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -9,9 +9,27 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+## Current Research Projects
+
+### Chatbots for Mental Health Self-Management
+**Duration:** Feb 2024 - Sept 2024
+**Location:** Champaign, IL
+
+- Designed and developed Zenny, an LLM-powered chatbot tailored for depression self-management, integrating OpenAI's API, enhancing user engagement and effectiveness in mental health support.
+- Facilitated interviews with participants to explore their interactions with Zenny across various scenarios, followed by qualitative coding of transcripts to analyze user feedback and improve chatbot responses.
+- Analyzed user interactions and feedback, focusing on the chatbot's role in promoting mental well-being and its potential application in broader mental health care solutions.
+
+### Caregivers Mental Well-being
+**Duration:** June 2024 - Present
+
+- Conducted an in-depth literature review to understand caregivers' current mental health issues and their needs, providing a foundation for targeted research.
+- Facilitated interviews with caregivers to explore their concerns about mental health categories, followed by qualitative coding of transcriptions to analyze their use of technology in caregiving and mental health management practices.
+- Identified opportunities for enhancing technology to better support caregivers' mental health and caregiving abilities, getting recommendations for future development and application.
+
+## Publications
+
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -31,6 +49,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 
