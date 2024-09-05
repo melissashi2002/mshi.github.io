@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% raw %}
-{% if site.talkmap_link == true %}
+<!--{% if site.talkmap_link == true %} -->
 <!--<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>-->
 {% endif %}
 
 <div class="wordwrap">
-  <h2>Additional Experience</h2>
+
 
   <h3>Penn State Association for Computing Machinery Webmaster</h3>
   <p><strong>Duration:</strong> Spring 2023<br>
@@ -24,6 +24,9 @@ author_profile: true
   </ul>
 
   <h3>Course Assistant for CS233 Computer Architecture</h3>
+  <p><strong>Duration:</strong> Fall 2024<br>
+    <strong>Institution:</strong> Siebel School of Computing and Data Science</p>
+
   <ul>
     <li>Assisted students with in-class group activities</li>
     <li>Held regular office hours and conducted exam review sessions</li>
@@ -31,7 +34,7 @@ author_profile: true
   </ul>
 </div>
 
-<h2>Talks</h2>
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
