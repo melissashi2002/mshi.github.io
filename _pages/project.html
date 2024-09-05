@@ -1,14 +1,26 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Project"
+permalink: /project/
 author_profile: true
 ---
-
+{% raw %}
 {% include base_path %}
+<div class="wordwrap">
+  <h2>Project Experience</h2>
 
+  <h3>Stock Predict Website</h3>
+  <p><strong>Duration:</strong> Jan 2024 - May 2024<br>
+  <strong>Technologies:</strong> Python, Flask, HTML, CSS, scikit-learn, PyTorch, PyTrend, YFinance, SQL</p>
+
+  <ul>
+    <li>Collaborated with a team to develop a full-stack web application for stock prediction, using Python and Flask for the back-end architecture.</li>
+    <li>Led the front-end development, creating intuitive and visually appealing user interfaces with HTML and CSS, which significantly improved user engagement and accessibility.</li>
+    <li>Developed and integrated sophisticated machine learning models using scikit-learn and PyTorch, leveraging PyTrend and YFinance data within SQL databases to enable real-time updates and personalized user plans, while ensuring effective collaboration and project management to deliver a high-quality product.</li>
+  </ul>
+</div>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
+{% endraw %}
