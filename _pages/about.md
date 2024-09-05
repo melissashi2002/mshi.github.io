@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="introduction">
+  <h2>About Jiayue (Melissa) Shi</h2>
+  
+  <p>Hi, my name is Jiayue (Melissa) Shi, and I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign. I am actively involved in the <a href="https://oncare.cs.illinois.edu/" target="_blank">OnCare Lab</a>, where I work under the guidance of <a href="https://koustuv.com/" target="_blank">Professor Koustuv Saha</a>.</p>
 
-Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm deeply interested in how technology affects human interactions, focusing on social computing, machine learning, deep learning, and HCI. I'm excited to explore how these areas can improve our digital and social worlds.
+  <p>My research delves into computational social science, examining how people interact with technology and how their opinions influence mental health care and depression self-management. I am particularly interested in the effectiveness and user experience of LLM-powered and AI-based chatbots, exploring their potential to provide personalized support and improve mental health outcomes. This includes studying how these technologies can be designed to better meet user needs and integrate into existing mental health frameworks.</p>
+
+  <p>My research interests are centered on the intersection of human-computer interaction (HCI) and mental health, with a particular focus on developing innovative technologies to enhance well-being and caregiving.</p>
+</div>
+
 
